@@ -38,4 +38,3 @@ retriever = GoldenRetriever("Charlie")
 retriever.display_name()
 retriever.sound()
 retriever.greet()
-
